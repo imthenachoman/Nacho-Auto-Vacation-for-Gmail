@@ -35,7 +35,7 @@ If you don't want to get the add-on from the marketplace:
 
 # Help
 
-For any questions, comments, concerns, feedback, or issues, [submit a new issue]().
+For any questions, comments, concerns, feedback, or issues, [submit a new issue](https://github.com/imthenachoman/Gmail-Auto-Vacation-Responder/issues/new).
 
 # Privacy Policy
 
@@ -43,4 +43,4 @@ TBD
 
 # License and Copyright
 
-MIT License
+[MIT License](https://github.com/imthenachoman/Gmail-Auto-Vacation-Responder/blob/main/LICENSE) - [https://github.com/imthenachoman/Gmail-Auto-Vacation-Responder/blob/main/LICENSE](https://github.com/imthenachoman/Gmail-Auto-Vacation-Responder/blob/main/LICENSE)
