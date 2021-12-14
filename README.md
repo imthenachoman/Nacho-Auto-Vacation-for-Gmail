@@ -9,6 +9,7 @@ This add-on will allow you to automatically enable and disable your Gmail [vacat
 - A daily job will look for OOO events in the next 24 hours. If it finds any, it will schedule Gmail's vacation responder to turn on and off based on the first OOO event's start and end time.
 - If you have multiple OOO events in the same 24 hour window, it will process the next OOO event at the end of the current OOO event.
 - Another job will monitor for changes to your calendar. If you make any OOO changes for today, it will make the necessary updates.
+- The add-on does not modify the subject or message body of your Gmail's vacation responder. It simply enables or disables the vacation responder.
 
 **Note**: Contrary to Google's [documentation](https://www.google.com/url?q=https://support.google.com/mail/answer/25922%23:~:text%3DWhen%2520your%2520vacation%2520reply%2520is%2520sent&source=gsuite-addons&ust=1639520502738000&usg=AOvVaw2JuNMKhPInEtGM0yn3JD69), or what you see on the Gmail browser UI, you **can** schedule the vacation responder to turn on or off at the hour/minute/second. The Gmail browser UI may show the wrong date, but it **will** turn on and off as expected.
 
