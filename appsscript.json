@@ -1,0 +1,45 @@
+{
+    "timeZone": "America/New_York",
+    "dependencies": {
+        "enabledAdvancedServices": [
+            {
+                "userSymbol": "Gmail",
+                "version": "v1",
+                "serviceId": "gmail"
+            },
+            {
+                "userSymbol": "Calendar",
+                "version": "v3",
+                "serviceId": "calendar"
+            }
+        ]
+    },
+    "exceptionLogging": "STACKDRIVER",
+    "runtimeVersion": "V8",
+    "oauthScopes": [
+        "https://www.googleapis.com/auth/calendar.addons.execute",
+        "https://www.googleapis.com/auth/gmail.addons.execute",
+        "https://www.googleapis.com/auth/script.scriptapp",
+        "https://www.googleapis.com/auth/calendar.events.readonly",
+        "https://www.googleapis.com/auth/gmail.settings.basic",
+        "https://www.googleapis.com/auth/userinfo.email"
+    ],
+    "addOns": {
+        "common": {
+            "name": "Gmail Auto Vacation Responder",
+            "logoUrl": "https://lh3.googleusercontent.com/pw/AM-JKLXP-mT8RdhuxbPEBkE1tFiiMsfQEnMUnf00QXVfuGBaMJFPmNZv-AXngLAmbyZaJKMFJwrObocFYALzYpMHIFJWVFbk_vJ3O1N8v2Jm8sA2pss6pbId6J_pltgQsOfWibD38AO9HLR5LjvOuGpEKrrStg=s480-no?authuser=0",
+            "homepageTrigger": {
+                "enabled": true,
+                "runFunction": "card_onHomepage"
+            },
+            "universalActions": [
+                {
+                    "label": "Help",
+                    "openLink": "https://www.google.com"
+                }
+            ]
+        },
+        "gmail": {},
+        "calendar": {}
+    }
+}
