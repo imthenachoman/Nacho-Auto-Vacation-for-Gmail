@@ -1,6 +1,6 @@
 # Gmail Auto Vacation Responder
 
-This add-on will allow you to automatically enable and disable your Gmail [vacation responder](https://www.google.com/url?q=https://support.google.com/mail/answer/25922?hl%3Den%26co%3DGENIE.Platform%253DDesktop&source=gsuite-addons&ust=1639341891270000&usg=AOvVaw3qauSqjFqDLcqGeslhuExk) based on [OOO events](https://www.google.com/url?q=https://support.google.com/calendar/answer/7638168%23:~:text%3DShow%2520when%2520you%25E2%2580%2599re%2520out%2520of%2520office&source=gsuite-addons&ust=1639341891270000&usg=AOvVaw3r32VR5uUVD93g163pZFxR) in your Google Calendar.
+Once enabled, this add-on will automatically enable and disable your Gmail [vacation responder](https://www.google.com/url?q=https://support.google.com/mail/answer/25922?hl%3Den%26co%3DGENIE.Platform%253DDesktop&source=gsuite-addons&ust=1639341891270000&usg=AOvVaw3qauSqjFqDLcqGeslhuExk) based on [OOO events](https://www.google.com/url?q=https://support.google.com/calendar/answer/7638168%23:~:text%3DShow%2520when%2520you%25E2%2580%2599re%2520out%2520of%2520office&source=gsuite-addons&ust=1639341891270000&usg=AOvVaw3r32VR5uUVD93g163pZFxR) in your Google Calendar.
 
 [TODO: insert Google Workspace Marketplace link]
 
@@ -8,6 +8,7 @@ This add-on will allow you to automatically enable and disable your Gmail [vacat
 
 - A daily job will look for OOO events in the next 24 hours. If it finds any, it will schedule Gmail's vacation responder to turn on and off based on the first OOO event's start and end time.
 - If you have multiple OOO events in the same 24 hour window, it will process the next OOO event at the end of the current OOO event.
+  - **Note**: The automation will not catch an OOO event if it happens within an hour of the previous one. In those cases you will have to manually `Refresh` the data through the add-on.
 - Another job will monitor for changes to your calendar. If you make any OOO changes for today, it will make the necessary updates.
 - The add-on does not modify the subject or message body of your Gmail's vacation responder. It simply enables or disables the vacation responder.
 
