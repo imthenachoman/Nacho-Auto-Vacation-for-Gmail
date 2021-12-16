@@ -34,12 +34,15 @@
             },
             "universalActions": [
                 {
-                    "label": "Help",
-                    "openLink": "https://www.google.com"
+                    "label": "About",
+                    "openLink": "https://github.com/imthenachoman/Gmail-Auto-Vacation-Responder"
                 }
             ]
         },
         "gmail": {},
         "calendar": {}
-    }
+    },
+    "urlFetchWhitelist": [
+        "https://github.com/imthenachoman/"
+    ]
 }
