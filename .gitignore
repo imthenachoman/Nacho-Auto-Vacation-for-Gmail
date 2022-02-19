@@ -1,3 +1,4 @@
-
 .vscode/
-.clasp.json
+.clasp.*
+*.mp4
+*.png

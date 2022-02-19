@@ -17,11 +17,11 @@
     "exceptionLogging": "STACKDRIVER",
     "runtimeVersion": "V8",
     "oauthScopes": [
-        "https://www.googleapis.com/auth/calendar.addons.execute",
         "https://www.googleapis.com/auth/gmail.addons.execute",
-        "https://www.googleapis.com/auth/script.scriptapp",
-        "https://www.googleapis.com/auth/calendar.events.readonly",
         "https://www.googleapis.com/auth/gmail.settings.basic",
+        "https://www.googleapis.com/auth/calendar.addons.execute",
+        "https://www.googleapis.com/auth/calendar.events.readonly",
+        "https://www.googleapis.com/auth/script.scriptapp",
         "https://www.googleapis.com/auth/userinfo.email"
     ],
     "addOns": {
