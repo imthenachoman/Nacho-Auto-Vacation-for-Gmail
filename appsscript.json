@@ -34,8 +34,12 @@
             },
             "universalActions": [
                 {
-                    "label": "About",
+                    "label": "Homepage",
                     "openLink": "https://github.com/imthenachoman/Gmail-Auto-Vacation-Responder"
+                },
+                {
+                    "label": "Privacy Policy",
+                    "openLink": "https://github.com/imthenachoman/Gmail-Auto-Vacation-Responder#privacy-policy"
                 }
             ]
         },
