@@ -43,7 +43,9 @@ For any questions, comments, concerns, feedback, or issues, [submit a new issue]
 
 # Privacy Policy
 
-TBD
+[Gmail Auto Vacation Responder](https://github.com/imthenachoman/Gmail-Auto-Vacation-Responder) does not transfer any user data outside of the user's Google account. 
+
+[Gmail Auto Vacation Responder](https://github.com/imthenachoman/Gmail-Auto-Vacation-Responder) use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes), including the Limited Use requirements.
 
 # License and Copyright
 
