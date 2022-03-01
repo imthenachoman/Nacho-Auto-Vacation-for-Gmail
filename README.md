@@ -69,5 +69,3 @@ For any questions, comments, concerns, feedback, or issues, [submit a new issue]
 [MIT License](https://github.com/imthenachoman/Gmail-Auto-Vacation-Responder/blob/main/LICENSE) - [https://github.com/imthenachoman/Gmail-Auto-Vacation-Responder/blob/main/LICENSE](https://github.com/imthenachoman/Gmail-Auto-Vacation-Responder/blob/main/LICENSE)
 
 ([Table of Contents](#table-of-contents))
-
-<meta name="google-site-verification" content="BGm5EYw8TlqPyZ73T_YEu7RMWLBI4kBGbMky034GhsI" />
