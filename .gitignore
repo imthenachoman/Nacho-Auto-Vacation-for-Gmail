@@ -2,3 +2,6 @@
 .clasp.*
 *.mp4
 *.png
+assets
+.gitattributes
+.gitignore

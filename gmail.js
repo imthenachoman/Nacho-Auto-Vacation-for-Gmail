@@ -12,6 +12,7 @@ function toggleGMailVacationResponder(enableAutoReply, startTime, endTime)
     {
         gmailVacationResponderSettings.startTime = Number(startTime);
         gmailVacationResponderSettings.endTime = Number(endTime);
+        gmailVacationResponderSettings.responseSubject = gmailVacationResponderSettings.responseSubject || "Out of Office";
     }
 
     logObject("toggleGMailVacationResponder", "updating Gmail vacation responder\ngmailVacationResponderSettings", gmailVacationResponderSettings);

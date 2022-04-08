@@ -26,7 +26,7 @@
     ],
     "addOns": {
         "common": {
-            "name": "Gmail Auto Vacation Responder",
+            "name": "Auto Vacation for Gmail",
             "logoUrl": "https://lh3.googleusercontent.com/pw/AM-JKLWnXrKoV9rliAUmvgumEE_fTK3IAX5rUAjo95LXXe6Xoai7Mo9XQ3OaNKksMJKNnfleCTQ6vTyit87FYzxdvdAe7W-FqgoP4udjgNpfY3Td77JUaS3RPO04LYBs9LlVnTAVqmjsf9kKztWZZojJDw_FQQ=s480-no?authuser=0",
             "homepageTrigger": {
                 "enabled": true,
@@ -35,11 +35,11 @@
             "universalActions": [
                 {
                     "label": "Homepage",
-                    "openLink": "https://github.com/imthenachoman/Gmail-Auto-Vacation-Responder"
+                    "openLink": "https://www.nigam.dev/gavr"
                 },
                 {
                     "label": "Privacy Policy",
-                    "openLink": "https://github.com/imthenachoman/Gmail-Auto-Vacation-Responder#privacy-policy"
+                    "openLink": "https://www.nigam.dev/gavr#h.xis6jfqunfce"
                 }
             ]
         },
@@ -47,6 +47,7 @@
         "calendar": {}
     },
     "urlFetchWhitelist": [
-        "https://github.com/imthenachoman/"
+        "https://github.com/imthenachoman/",
+        "https://www.nigam.dev/gavr"
     ]
 }

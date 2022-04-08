@@ -1,12 +1,12 @@
-# Gmail Auto Vacation Responder
+# Auto Vacation for Gmail <!-- omit in toc -->
 
-Once enabled, this add-on will automatically enable and disable your Gmail [vacation responder](https://www.google.com/url?q=https://support.google.com/mail/answer/25922?hl%3Den%26co%3DGENIE.Platform%253DDesktop&source=gsuite-addons&ust=1639341891270000&usg=AOvVaw3qauSqjFqDLcqGeslhuExk) based on [OOO events](https://www.google.com/url?q=https://support.google.com/calendar/answer/7638168%23:~:text%3DShow%2520when%2520you%25E2%2580%2599re%2520out%2520of%2520office&source=gsuite-addons&ust=1639341891270000&usg=AOvVaw3r32VR5uUVD93g163pZFxR) in your Google Calendar.
+Once enabled, this [add-on](https://www.nachoapps.dev/av4g) will automatically enable and disable your Gmail [vacation responder](https://support.google.com/mail/answer/25922) based on [OOO events](https://support.google.com/calendar/answer/7638168#:~:text=Show%20when%20you%E2%80%99re%20out%20of%20office) in your Google Calendar.
 
 ![image](https://user-images.githubusercontent.com/83817/146289213-a6fac5d7-0e33-4863-b952-cd514a5d6030.png)
 
-[TODO: insert Google Workspace Marketplace link]
+[Homepage](https://www.nachoapps.dev/av4g)
 
-# Table of Contents
+# Table of Contents <!-- omit in toc -->
 
 - [How It Works](#how-it-works)
 - [How To Use It](#how-to-use-it)
@@ -54,18 +54,16 @@ If you don't want to get the add-on from the marketplace:
 
 # Help
 
-For any questions, comments, concerns, feedback, or issues, [submit a new issue](https://github.com/imthenachoman/Gmail-Auto-Vacation-Responder/issues/new).
+For any questions, comments, concerns, feedback, or issues, [submit a new issue](https://github.com/imthenachoman/Auto-Vacation-for-Gmail/issues/new).
 
 # Privacy Policy
 
-[Gmail Auto Vacation Responder](https://github.com/imthenachoman/Gmail-Auto-Vacation-Responder) does not transfer any user data outside of the user's Google account. 
-
-[Gmail Auto Vacation Responder](https://github.com/imthenachoman/Gmail-Auto-Vacation-Responder) use and transfer to any other app of information received from Google APIs will adhere to [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes), including the Limited Use requirements.
+See https://www.nachoapps.dev/av4g.
 
 ([Table of Contents](#table-of-contents))
 
 # License and Copyright
 
-[MIT License](https://github.com/imthenachoman/Gmail-Auto-Vacation-Responder/blob/main/LICENSE) - [https://github.com/imthenachoman/Gmail-Auto-Vacation-Responder/blob/main/LICENSE](https://github.com/imthenachoman/Gmail-Auto-Vacation-Responder/blob/main/LICENSE)
+[MIT License](https://github.com/imthenachoman/Auto-Vacation-for-Gmail/blob/main/LICENSE) - [https://github.com/imthenachoman/Auto-Vacation-for-Gmail/blob/main/LICENSE](https://github.com/imthenachoman/Auto-Vacation-for-Gmail/blob/main/LICENSE)
 
 ([Table of Contents](#table-of-contents))
