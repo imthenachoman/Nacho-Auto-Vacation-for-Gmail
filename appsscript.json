@@ -27,7 +27,7 @@
     "addOns": {
         "common": {
             "name": "Auto Vacation for Gmail",
-            "logoUrl": "https://lh3.googleusercontent.com/pw/AM-JKLWnXrKoV9rliAUmvgumEE_fTK3IAX5rUAjo95LXXe6Xoai7Mo9XQ3OaNKksMJKNnfleCTQ6vTyit87FYzxdvdAe7W-FqgoP4udjgNpfY3Td77JUaS3RPO04LYBs9LlVnTAVqmjsf9kKztWZZojJDw_FQQ=s480-no?authuser=0",
+            "logoUrl": "https://lh3.googleusercontent.com/pw/AM-JKLW40HvB6-x7HCb0zDqa1kuRD5w2WeCHC02M_K6IoJhmzi5XEyDZKATi8YTF9XZ2tOcviybGGi7XT_klDeDNEPnxqICo-TWSZU59eWy6N_3qf0NMDhPsXCUsvrB4fjNNSDeZqL-nZ2iW8V9xDx5VChU=s480-no?authuser=5",
             "homepageTrigger": {
                 "enabled": true,
                 "runFunction": "card_onHomepage"
