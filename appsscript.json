@@ -35,11 +35,11 @@
             "universalActions": [
                 {
                     "label": "Homepage",
-                    "openLink": "https://www.nigam.dev/gavr"
+                    "openLink": "https://www.nachoapps.dev/av4g"
                 },
                 {
                     "label": "Privacy Policy",
-                    "openLink": "https://www.nigam.dev/gavr#h.xis6jfqunfce"
+                    "openLink": "https://www.nachoapps.dev/av4g#h.xis6jfqunfce"
                 }
             ]
         },
@@ -48,6 +48,6 @@
     },
     "urlFetchWhitelist": [
         "https://github.com/imthenachoman/",
-        "https://www.nigam.dev/gavr"
+        "https://www.nachoapps.dev/av4g"
     ]
 }
